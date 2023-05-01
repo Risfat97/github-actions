@@ -227,6 +227,8 @@ Your new action will run any time a pull request has been opened.
 3. See your action run on your pull request.
 4. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
 
+😄
+
 </details>
 
 <!--
